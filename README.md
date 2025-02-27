@@ -2,7 +2,7 @@
 _Fight your way through the dungeon while solving the puzzles in order to defeat The Gorgon!_
 
 
-## 🚀 **About the Project**  
+## 📖 **About the Project**  
 🕹️ **Gorgon's Dungeon** is third person action adventure game built in **Unity** using **C#**. It was developed as part of the Videogame course within the Informatics Engineering bachelor program at UPC, together with a classmate.
 
 🔹 **Tech Stack:** Unity | C#   
@@ -21,9 +21,9 @@ _Fight your way through the dungeon while solving the puzzles in order to defeat
 
 ---
 
-## 🎮 **How to Play Directly**  
-🎯 **Option 1:** Download the **Build Gorgon's Dungeon** folder and run the executable file to play on Windows.  
-🎯 **Option 2:** Play online via Unity Play: [Click here to play](https://play.unity.com/en/games/19a0bd80-6f3d-44aa-84cc-8cbbf35cb17e/gorgons-dungeon)  
+## 🚀 **How to Play Directly**  
+🔹 **Option 1:** Download the **Build Gorgon's Dungeon** folder and run the executable file to play on Windows.  
+🔹 **Option 2:** Play online via Unity Play: [Click here to play](https://play.unity.com/en/games/19a0bd80-6f3d-44aa-84cc-8cbbf35cb17e/gorgons-dungeon)  
 
 ---
 
