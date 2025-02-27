@@ -3,7 +3,7 @@ _Fight your way through the dungeon while solving the puzzles in order to defeat
 
 
 ## 📖 **About the Project**  
-🕹️ **Gorgon's Dungeon** is third person action adventure game built in **Unity** using **C#**. It was developed as part of the Videogame course within the Informatics Engineering bachelor program at UPC, together with a classmate.
+🕹️ **Gorgon's Dungeon** is a third person action puzzle game built in **Unity** using **C#**. It was developed as part of the Videogame course within the Informatics Engineering bachelor program at UPC, together with a classmate.
 
 🔹 **Tech Stack:** Unity | C#   
 🔹 **Platforms:** Windows   
