@@ -7,7 +7,7 @@ _Fight your way through the dungeon while solving the puzzles in order to defeat
 
 🔹 **Tech Stack:** Unity | C#   
 🔹 **Platforms:** Windows   
-🔹 **Current Status:** ✅ Completed 
+🔹 **Current Status:** ✅ Completed (with some bugs)
 
 ---
 
@@ -19,7 +19,11 @@ _Fight your way through the dungeon while solving the puzzles in order to defeat
 2. **Open in Unity** (Recommended version: `2021.3.13f1`)  
 3. **Press Play & Enjoy!**  
 
-💡 _Alternatively, download the **Build Gorgon's Dungeon** folder and execute the application to play on Windows._  
+---
+
+## 🎮 **How to Play Directly**  
+🎯 **Option 1:** Download the **Build Gorgon's Dungeon** folder and run the executable file to play on Windows.  
+🎯 **Option 2:** Play online via Unity Play: [Click here to play](https://play.unity.com/en/games/19a0bd80-6f3d-44aa-84cc-8cbbf35cb17e/gorgons-dungeon)  
 
 ---
 
